@@ -1,0 +1,10 @@
+{
+  "name": "Miezy's Car Plate Recognition",
+  "description": "Real-time car license plate recognition system powered by Python EasyOCR and Firebase Firestore parking_records synchronization, vehicle entry tracking, and camera capture.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
